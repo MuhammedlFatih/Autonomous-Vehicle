@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fatih/robot_80/install/kodlar/lib/python3.10/site-packages",
+        "/home/fatih/neo_ws/install/parameter_tests/lib/python3.10/site-packages",
+        "/home/fatih/py_nodes/install/driving_nodes/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fatih/robot_80/install/kodlar/lib/python3.10/site-packages",
+        "/home/fatih/neo_ws/install/parameter_tests/lib/python3.10/site-packages",
+        "/home/fatih/py_nodes/install/driving_nodes/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
